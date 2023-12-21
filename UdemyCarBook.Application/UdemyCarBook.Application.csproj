@@ -1,0 +1,19 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <TargetFramework>net8.0</TargetFramework>
+    <ImplicitUsings>enable</ImplicitUsings>
+    <Nullable>enable</Nullable>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <ProjectReference Include="..\UdemyCarBook.Domain\UdemyCarBook.Domain.csproj" />
+  </ItemGroup>
+
+  <ItemGroup>
+    <Folder Include="Interfaces\BlogInterfaces\" />
+    <Folder Include="Interfaces\CarPricingInterfaces\" />
+    <Folder Include="Interfaces\TagCloudInterfaces\" />
+  </ItemGroup>
+
+</Project>

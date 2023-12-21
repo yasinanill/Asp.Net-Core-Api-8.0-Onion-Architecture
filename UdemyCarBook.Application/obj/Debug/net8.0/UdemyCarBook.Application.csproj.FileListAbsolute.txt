@@ -1,0 +1,6 @@
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.AssemblyInfoInputs.cache
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.AssemblyInfo.cs
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.sourcelink.json
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.csproj.AssemblyReference.cache
