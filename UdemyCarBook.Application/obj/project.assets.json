@@ -17,8 +17,8 @@
   "libraries": {
     "UdemyCarBook.Domain/1.0.0": {
       "type": "project",
-      "path": "../CarBook.Domain/UdemyCarBook.Domain.csproj",
-      "msbuildProject": "../CarBook.Domain/UdemyCarBook.Domain.csproj"
+      "path": "../UdemyCarBook.Domain/UdemyCarBook.Domain.csproj",
+      "msbuildProject": "../UdemyCarBook.Domain/UdemyCarBook.Domain.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -53,8 +53,8 @@
         "net8.0": {
           "targetAlias": "net8.0",
           "projectReferences": {
-            "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\CarBook.Domain\\UdemyCarBook.Domain.csproj": {
-              "projectPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\CarBook.Domain\\UdemyCarBook.Domain.csproj"
+            "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj": {
+              "projectPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj"
             }
           }
         }

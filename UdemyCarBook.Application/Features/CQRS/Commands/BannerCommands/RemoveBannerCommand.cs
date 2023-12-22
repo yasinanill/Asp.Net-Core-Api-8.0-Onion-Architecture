@@ -6,7 +6,13 @@ using System.Threading.Tasks;
 
 namespace UdemyCarBook.Application.Features.CQRS.Commands.BannerCommands
 {
-    internal class RemoveBannerCommand
+    public class RemoveBannerCommand
     {
+        public int Id { get; set; }
+
+        public RemoveBannerCommand(int id)
+        {
+            Id = id;
+        }
     }
 }

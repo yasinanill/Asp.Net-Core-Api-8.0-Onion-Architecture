@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\CarBook.Domain\\UdemyCarBook.Domain.csproj",
+      "projectUniqueName": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
       "projectName": "UdemyCarBook.Domain",
-      "projectPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\CarBook.Domain\\UdemyCarBook.Domain.csproj",
+      "projectPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
       "packagesPath": "C:\\Users\\yasinanil\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\CarBook.Domain\\obj\\",
+      "outputPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\yasinanil\\AppData\\Roaming\\NuGet\\NuGet.Config",

@@ -4,3 +4,13 @@ C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\
 C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.csproj.CoreCompileInputs.cache
 C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.sourcelink.json
 C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.csproj.AssemblyReference.cache
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Application.deps.json
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Application.dll
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Application.pdb
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Domain.dll
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\bin\Debug\net8.0\UdemyCarBook.Domain.pdb
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.csproj.CopyComplete
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.dll
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\refint\UdemyCarBook.Application.dll
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\UdemyCarBook.Application.pdb
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Debug\net8.0\ref\UdemyCarBook.Application.dll

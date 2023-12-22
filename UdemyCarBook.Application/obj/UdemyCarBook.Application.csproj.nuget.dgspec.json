@@ -4,14 +4,14 @@
     "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj": {}
   },
   "projects": {
-    "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\CarBook.Domain\\UdemyCarBook.Domain.csproj": {
+    "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\CarBook.Domain\\UdemyCarBook.Domain.csproj",
-        "projectName": "UdemyCarBook.Domain",
-        "projectPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\CarBook.Domain\\UdemyCarBook.Domain.csproj",
+        "projectUniqueName": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj",
+        "projectName": "UdemyCarBook.Application",
+        "projectPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj",
         "packagesPath": "C:\\Users\\yasinanil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\CarBook.Domain\\obj\\",
+        "outputPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yasinanil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -27,7 +27,11 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj": {
+                "projectPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
@@ -59,14 +63,14 @@
         }
       }
     },
-    "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj": {
+    "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj",
-        "projectName": "UdemyCarBook.Application",
-        "projectPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\UdemyCarBook.Application.csproj",
+        "projectUniqueName": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
+        "projectName": "UdemyCarBook.Domain",
+        "projectPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\UdemyCarBook.Domain.csproj",
         "packagesPath": "C:\\Users\\yasinanil\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Application\\obj\\",
+        "outputPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\UdemyCarBook.Domain\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\yasinanil\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -82,11 +86,7 @@
         "frameworks": {
           "net8.0": {
             "targetAlias": "net8.0",
-            "projectReferences": {
-              "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\CarBook.Domain\\UdemyCarBook.Domain.csproj": {
-                "projectPath": "C:\\Users\\yasinanil\\Desktop\\UdemyCarBook\\Core\\CarBook.Domain\\UdemyCarBook.Domain.csproj"
-              }
-            }
+            "projectReferences": {}
           }
         },
         "warningProperties": {
