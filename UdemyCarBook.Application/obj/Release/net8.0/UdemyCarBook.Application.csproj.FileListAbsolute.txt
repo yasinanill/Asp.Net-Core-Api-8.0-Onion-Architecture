@@ -1,0 +1,16 @@
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\bin\Release\net8.0\UdemyCarBook.Application.deps.json
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\bin\Release\net8.0\UdemyCarBook.Application.dll
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\bin\Release\net8.0\UdemyCarBook.Application.pdb
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\bin\Release\net8.0\UdemyCarBook.Domain.dll
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\bin\Release\net8.0\UdemyCarBook.Domain.pdb
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Release\net8.0\UdemyCarBook.Application.csproj.AssemblyReference.cache
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Release\net8.0\UdemyCarBook.Application.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Release\net8.0\UdemyCarBook.Application.AssemblyInfoInputs.cache
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Release\net8.0\UdemyCarBook.Application.AssemblyInfo.cs
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Release\net8.0\UdemyCarBook.Application.csproj.CoreCompileInputs.cache
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Release\net8.0\UdemyCarBook.Application.sourcelink.json
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Release\net8.0\UdemyCarBook.Application.csproj.CopyComplete
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Release\net8.0\UdemyCarBook.Application.dll
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Release\net8.0\refint\UdemyCarBook.Application.dll
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Release\net8.0\UdemyCarBook.Application.pdb
+C:\Users\yasinanil\Desktop\UdemyCarBook\Core\UdemyCarBook.Application\obj\Release\net8.0\ref\UdemyCarBook.Application.dll
